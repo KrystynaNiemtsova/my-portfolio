@@ -319,3 +319,7 @@ form .btn2{
     font-weight: 300;
     margin-top: 20px;
 }
+/* -------------css for small screens------------- */
+@media only screen and (max-with: 600px){
+    
+}
